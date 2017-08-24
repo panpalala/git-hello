@@ -9,4 +9,9 @@ public class HelloGit {
 	public void hello() {
 		System.out.println("hello world!");
 	}
+	
+	public void world(){
+		System.out.println("world");
+	}
+
 }
