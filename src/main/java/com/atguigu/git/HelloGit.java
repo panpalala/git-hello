@@ -13,5 +13,9 @@ public class HelloGit {
 	public void world(){
 		System.out.println("world");
 	}
+	
+	public void see() {
+		System.out.println("push --- 1");
+	}
 
 }
